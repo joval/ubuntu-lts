@@ -50,7 +50,12 @@ Our hardened version of Ubuntu is in *_active development_*. It is subject to ch
 
 We believe anyone should be able to quickly re-engineer a secure component, without having to rely on a golden master image from 18F or any other Federal technology team. To that end, we'll represent Infrastructure as Code (IaC) wherever possible. We're really excited to work with the community to create a thriving ecosystem in this space, without any major vendor or framework lock-ins. If you'd like to participate, volunteer for one of the tasks in our [IaC issues list](https://github.com/fisma-ready/ubuntu-lts/issues?labels=IaC&page=1&state=open).
 
+## Free to use
 
-#### Future changes
+This work has been committed to the public domain. In order to cover edge scenarios and preserve the abscence of copyright internationally, we have used the [Creative Commons Zero Public Domain](https://github.com/fisma-ready/ubuntu-lts/blob/master/LICENSE) dedciation. 
+
+This only applies to the work created by 18F. Licenses on technical reference documents or on the software components themselves may apply.
+
+## Future changes
 
 This is a living document. 18F expects to make changes to this policy in the future, and we welcome [issues](https://github.com/fisma-ready/ubuntu-lts/issues) and pull requests. To contact us privately, email <a href="mailto:18F@gsa.gov">18F@gsa.gov</a>.
