@@ -41,3 +41,16 @@ Once an initial re-assessment has been completed, agencies should consider the u
 The team at 18F decided to start work exactly where FedRAMP stops - at the operating system layer, in a true IaaS environment. Current baselines were available for Windows, Solaris, and Red Hat Enterprise Linux. But, there were no generally available &mdash; and certainly not public &mdash; baselines, for Ubuntu or the Debian version of Linux generally.
 
 18F is committed to [free and open source software](https://github.com/18F/open-source-policy/blob/master/policy.md) - our intention is that the software we write can be run _anywhere_, without the need to pay for licensing fees.
+
+## Caveat emptor
+
+Our hardened version of Ubuntu is in *_active development_*. It is subject to change rapidly. Our intention is that no changes will be system breaking, and testing both in local virutal machines and the Amazon Web Services (AWS) cloud is ongoing. We have also started to put common web workloads on servers running the hardened OS and no issues have yet arisen. Always use a testing environment before deploying a new OS configuration into production.
+
+## Infrastructure as Code
+
+We believe anyone should be able to quickly re-engineer a secure component, without having to rely on a golden master image from 18F or any other Federal technology team. To that end, we'll represent Infrastructure as Code (IaC) wherever possible. We're really excited to work with the community to create a thriving ecosystem in this space, without any major vendor or framework lock-ins. If you'd like to participate, volunteer for one of the tasks in our [IaC issues list](https://github.com/fisma-ready/ubuntu-lts/issues?labels=IaC&page=1&state=open).
+
+
+#### Future changes
+
+This is a living document. 18F expects to make changes to this policy in the future, and we welcome [issues](https://github.com/fisma-ready/ubuntu-lts/issues) and pull requests. To contact us privately, email <a href="mailto:18F@gsa.gov">18F@gsa.gov</a>.
