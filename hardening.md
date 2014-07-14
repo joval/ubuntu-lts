@@ -567,4 +567,4 @@ Modified config files
 
 #### Misc
 
-Questions? Email noah.kunin@gsa.gov or jump into the #ubuntu room.
+Questions? Email noah.kunin@gsa.gov.
