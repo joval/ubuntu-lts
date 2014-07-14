@@ -4,7 +4,7 @@ In the United States, all Federal Government information systems are regulated b
 
 While nothing is completely without risk, federal agencies require systems to receive an Authority to Operate (ATO) before putting a system into production. An ATO is the final step in NIST's [risk management framework](http://csrc.nist.gov/groups/SMA/fisma/framework.html). An ATO represents the agency's acceptance of the risk presented in operating the system, after all due diligence has been completed and reasonable controls put in place.
 
-[NIST Special Publication (SP) 800-53 Revision 4](http://csrc.nist.gov/groups/SMA/fisma/controls.html) lists various control baselines, depending on how the system has been [categorized](http://csrc.nist.gov/groups/SMA/fisma/categorization.html). Implenting, documenting, and assessing these controls on a system of even moderate complexity can be incrediably time consuming and prone to error.
+[NIST Special Publication (SP) 800-53 Revision 4](http://csrc.nist.gov/groups/SMA/fisma/controls.html) lists various control baselines, depending on how the system has been [categorized](http://csrc.nist.gov/groups/SMA/fisma/categorization.html). Implenting, documenting, and assessing these controls on a system of even moderate complexity can be incredibly time consuming and prone to error.
 
 [18F](https://18F.gsa.gov), a digital services delivery team within the [General Services Administration](http://www.gsa.gov) (GSA), is interested in making this process more efficient and effective, while radically reducing the time necessary to get an ATO. One way to increase both quality and speed is to heavily reuse pre-approved components in the system.
 
