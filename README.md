@@ -34,6 +34,6 @@ Once an initial re-assessment has been completed, agencies should consider the u
 
 # 18F FISMA Ready Ubuntu - version 0.1.2
 
-The team at 18F decided to start work exactly where FedRAMP stops - at the operating system layer, in a true IaaS environment. Current baselines were available for Windows, Solaris, and Red Hat Enterprise Linux. But, there were no generally availabe &mdash; and certainly not public &mdash; baselines, for Ubuntu or the Debian version of Linux generally.
+The team at 18F decided to start work exactly where FedRAMP stops - at the operating system layer, in a true IaaS environment. Current baselines were available for Windows, Solaris, and Red Hat Enterprise Linux. But, there were no generally available &mdash; and certainly not public &mdash; baselines, for Ubuntu or the Debian version of Linux generally.
 
 18F is committed to [free and open source software](https://github.com/18F/open-source-policy/blob/master/policy.md) - our intention is that the software we write can be run _anywhere_, without the need to pay for licensing fees.
