@@ -28,7 +28,7 @@ The vast majority of a system's security comes not from technical controls, but 
 
 ### Trust but verify
 
-If an agency resuses a system component that has received an ATO from another agency, they should be sure to test the security controls are indeed in place. FISMA Ready will strive to ensure those tests are automated, easy to use, and able to be run with free and open source software, without any restrictions.
+If an agency reuses a system component that has received an ATO from another agency, they should be sure to test the security controls are indeed in place. FISMA Ready will strive to ensure those tests are automated, easy to use, and able to be run with free and open source software, without any restrictions.
 
 Once an initial re-assessment has been completed, agencies should consider the use of hashes on the virtual machine, container, or package to ensure they are always building from a known component state.
 
