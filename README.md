@@ -8,6 +8,10 @@ While nothing is completely without risk, federal agencies require systems to re
 
 [18F](https://18F.gsa.gov), a digital services delivery team within the [General Services Administration](http://www.gsa.gov) (GSA), is interested in making this process more efficient and effective, while radically reducing the time necessary to get an ATO. One way to increase both quality and speed is to heavily reuse pre-approved components in the system.
 
+## Security, not obscurity
+
+We believe hat our systems will be safer if we this work in the open. It's a simple mathmetical reality that there will always be more security expertise outside of our team than within it. The only way to stay ahead of 21st century threats is to utilize the greatest amount of talent possible via transparent collaboration. Obscurity is the weakest of all security controls and must always be considered in a context of net security tradeoffs. Our _overall_ security is greatly increased by working with the community to discover unknown flaws or creative improvements. 
+
 ## Considerations and prerequisites
 
 Before starting to use FISMA Ready components, implement the following best practices.
