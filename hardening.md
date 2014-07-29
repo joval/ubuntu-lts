@@ -2,7 +2,7 @@
 
 This hardening guide, and the operating system (OS) configuration it produces, is in *early beta* and will change. The baseline is currently version 0.1.2. 18F is currently testing this baseline for deployment into production.
 
-There are many recommended controls that are already in place with given a fresh install of either Ubuntu 12.04 LTS or Ubuntu 14.04 LTS. These controls are fully itemized at TBD and are covered by our an open source compliance testing suite we are currently working on. 
+There are many recommended controls that are already in place with given a fresh install of either Ubuntu 12.04 LTS or Ubuntu 14.04 LTS. These controls are fully itemized at [list forthcoming] and are covered by an open source compliance testing suite we are currently working on. 
 
 Controls were implemented on both an Ubuntu 12.04 box downloaded from the [VagrantCloud](https://vagrantcloud.com/hashicorp/precise64/version/2/provider/virtualbox.box) and the default 640-bit Ubuntu 14.04 Amazon Machine Image (AMI).
 
